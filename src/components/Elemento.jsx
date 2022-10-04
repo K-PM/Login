@@ -38,7 +38,7 @@ function Elemento() {
     ];
     return ( 
         <div>
-            <h1>Registro Escolar</h1>
+            <h1>Iniciar sesion</h1>
             {Elementos.map((elemet)=>(
                  <Inputs
                 type={elemet.type}
